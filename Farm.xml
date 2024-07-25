@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="store.xslt"?>
+<store>
+    <heading>Farm ni Mang Jose</heading>
+    <product>
+        <name>Bitter Melon</name>
+        <price>12.99</price>
+        <scientificCategory>Momordica charantia</scientificCategory>
+    </product>
+    <product>
+        <name>Broccoli</name>
+        <price>8.49</price>
+        <scientificCategory>Brassica oleracea</scientificCategory>
+    </product>
+    <product>
+        <name>Cabbage</name>
+        <price>6.99</price>
+        <scientificCategory>Brassica oleracea var. capitata</scientificCategory>
+    </product>
+    <product>
+        <name>Carrots</name>
+        <price>4.99</price>
+        <scientificCategory>Daucus carota</scientificCategory>
+    </product>
+    <product>
+        <name>Lettuce</name>
+        <price>3.99</price>
+        <scientificCategory>Lactuca sativa</scientificCategory>
+    </product>
+    <product>
+        <name>Potato</name>
+        <price>5.49</price>
+        <scientificCategory>Solanum tuberosum</scientificCategory>
+    </product>
+    <product>
+        <name>Tomato</name>
+        <price>7.99</price>
+        <scientificCategory>Solanum lycopersicum</scientificCategory>
+    </product>
+    <product>
+        <name>Onion</name>
+        <price>3.49</price>
+        <scientificCategory>Allium cepa</scientificCategory>
+    </product>
+    <product>
+        <name>Bell Pepper</name>
+        <price>9.99</price>
+        <scientificCategory>Capsicum annuum</scientificCategory>
+    </product>
+    <product>
+        <name>Spinach</name>
+        <price>5.99</price>
+        <scientificCategory>Spinacia oleracea</scientificCategory>
+    </product>
+    <product>
+        <name>Squash</name>
+        <price>6.79</price>
+        <scientificCategory>Cucurbita</scientificCategory>
+    </product>
+    <product>
+        <name>Radish</name>
+        <price>4.29</price>
+        <scientificCategory>Raphanus sativus</scientificCategory>
+    </product>
+    <product>
+        <name>Eggplant</name>
+        <price>5.59</price>
+        <scientificCategory>Solanum melongena</scientificCategory>
+    </product>
+    <product>
+        <name>Asparagus</name>
+        <price>8.29</price>
+        <scientificCategory>Asparagus officinalis</scientificCategory>
+    </product>
+    <product>
+        <name>Cucumber</name>
+        <price>3.79</price>
+        <scientificCategory>Cucumis sativus</scientificCategory>
+    </product>
+    <product>
+        <name>Zucchini</name>
+        <price>4.99</price>
+        <scientificCategory>Cucurbita pepo</scientificCategory>
+    </product>
+    <product>
+        <name>Green Bean</name>
+        <price>5.99</price>
+        <scientificCategory>Phaseolus vulgaris</scientificCategory>
+    </product>
+    <product>
+        <name>Corn</name>
+        <price>6.49</price>
+        <scientificCategory>Zea mays</scientificCategory>
+    </product>
+    <product>
+        <name>Mushroom</name>
+        <price>7.79</price>
+        <scientificCategory>Agaricus bisporus</scientificCategory>
+    </product>
+    <product>
+        <name>Peas</name>
+        <price>5.29</price>
+        <scientificCategory>Pisum sativum</scientificCategory>
+    </product>
+    <product>
+        <name>Okra</name>
+        <price>6.99</price>
+        <scientificCategory>Abelmoschus esculentus</scientificCategory>
+    </product>
+</store>
